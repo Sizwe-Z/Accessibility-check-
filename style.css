@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #997373;
+    padding: 20px;
+  }
+  .container {
+    max-width: 800px;
+    margin: auto;
+  }
+  textarea {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  #results {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  .warning {
+    color: orange;
+  }
+  .error {
+    color: red;
+  }
+  .info {
+    color: blue;
+  }
+  
